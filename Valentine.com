@@ -80,7 +80,7 @@ color:white;
 text-align:center;
 padding:20px;
 ">
-<h1>  Yayyy yourname! I knew it   </h1>
+<h1>  Yayyy Darling ! I knew it   </h1>
 <img
 src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"
 alt="Dancing girl"
